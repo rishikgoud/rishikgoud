@@ -5,8 +5,9 @@
 <p align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300"/> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikgoud" alt="rishikgoud" /></a> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikgoud&label=Profile%20views&color=0e75b6&style=flat" alt="rishikgoud" /> </p>
 
-<img src="https://camo.githubusercontent.com/4ec01b3fd328dddcaee1a3c8fd8434f67d964c9f9ff599a52867b21f7132bf66/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7269736861622d6b756d61722d303236266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="rishikgoud" data-canonical-src="https://komarev.com/ghpvc/?username=rishikgoud&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<p align="left"> <a href="https://twitter.com/tallarishi252356" target="blank"><img src="https://img.shields.io/twitter/follow/tallarishi252356?logo=twitter&style=for-the-badge" alt="tallarishi252356" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and DSA**
 
