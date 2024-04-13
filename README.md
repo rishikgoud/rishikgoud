@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="">
 
-<p align="left"> <img src=""C:\Coding_journey\stock imges\gitprofile.gif"" /> </p>
+<p align="left"> <img src="C:\Coding_journey\stock imges\gitprofile.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikgoud" alt="rishikgoud" /></a> </p>
 
