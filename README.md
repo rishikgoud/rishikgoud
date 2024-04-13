@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG8M0PWMXVj2A/profile-displaybackgroundimage-shrink_350_1400/0/1712835319789?e=1718236800&v=beta&t=J79m7IdisBFn8qorfGOPbfl9ttcdJnoBBJH9PVSng-I)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQG8M0PWMXVj2A/profile-displaybackgroundimage-shrink_350_1400/0/1712835319789?e=1718236800&v=beta&t=J79m7IdisBFn8qorfGOPbfl9ttcdJnoBBJH9PVSng-I)
 <h1 align="center">Hi 👋, I'm T Rishik Goud</h1>
 <h3 align="center ">A passionate frontend developer from India</h3>
 
