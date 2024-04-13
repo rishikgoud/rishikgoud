@@ -1,10 +1,10 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQG8M0PWMXVj2A/profile-displaybackgroundimage-shrink_350_1400/0/1712835319789?e=1718236800&v=beta&t=J79m7IdisBFn8qorfGOPbfl9ttcdJnoBBJH9PVSng-I)]
 <h1 align="center">Hi 👋, I'm T Rishik Goud</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center ">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikgoud" alt="rishikgoud" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikgoud" alt="rishikgoud" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/tallarishi252356" target="blank"><img src="https://img.shields.io/twitter/follow/tallarishi252356?logo=twitter&style=for-the-badge" alt="tallarishi252356" /></a> </p>
 
