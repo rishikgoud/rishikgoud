@@ -82,17 +82,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishikgoud&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikgoud&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikgoud&layout=compact&theme=tokyonight" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikgoud&show_icons=true&locale=en&layout=compact" alt="rishikgoud" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikgoud&show_icons=true&locale=en" alt="rishikgoud" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikgoud&" alt="rishikgoud" /></p>
 
 ---
 
